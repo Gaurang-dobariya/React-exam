@@ -1,0 +1,16 @@
+{
+  "recipes": [
+    {
+      "id": "6c3b",
+      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2024/06/vegetable-biryani-1.jpg",
+      "recipeName": "Vegetable Biryani",
+      "desc": "None of us, especially we Indians, can even have enough of a biryani. Biryani is my most favorite rice-based dish."
+    },
+    {
+      "id": "6e29",
+      "image": "https://c.ndtvimg.com/2023-03/4edpc4bo_curd-rice_625x300_28_March_23.jpg",
+      "recipeName": "Millet Curd Rice",
+      "desc": "Millet curd rice is like the upgraded, health-conscious sibling of traditional curd rice - it's got the nutrition game on point and is surprisingly versatile!"
+    }
+  ]
+}
